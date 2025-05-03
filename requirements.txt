@@ -1,0 +1,7 @@
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+osmnx>=1.9
+networkx>=3.2
+typer>=0.12
+pytest>=8.0
